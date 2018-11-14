@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class PA05_POT {
 
 	static void potegi(long a, long b) {
 		long last = a%10;
